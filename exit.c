@@ -1,4 +1,5 @@
-#include <head.h>
+#include <stdio.h>
+#include <unistd.h>
 
 int test()
 {
